@@ -1,2 +1,2 @@
 hi there
-peoples
+read me
